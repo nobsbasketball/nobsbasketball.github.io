@@ -44,13 +44,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-about",
-          title: "About",
-          description: "Hi, I am a current high school junior with JV basketball experience. Prior to high school, I had the dream of playing at a high level, but all I had no clue how to workout.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
-          },
         },{id: "nav-people",
           title: "people",
           description: "members of the lab or group",
