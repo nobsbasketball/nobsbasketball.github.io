@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: About
+description: Hi, I am a current high school junior with JV basketball experience. Prior to high school, I had the dream of playing at a high level, but all I had no clue how to workout. 
 nav: true
 nav_order: 6
 ---
